@@ -33,6 +33,7 @@
   display: none;
   transition: .4s;
   z-index: 1;
+  cursor: pointer;
 }
 
 .select-input{
